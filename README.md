@@ -1,4 +1,10 @@
 # PyTorch Tutorials
 
-In this place I share some of the codes that I peronally use via PyTorch. <br />
-I hope it can help other people too...
+In this place I share some of the basic codes on how to use PyTorch on different topics.<br />
+You can read the official PyTorch tutorials or other great tutorials that texist out there for more examples.<br/>
+I hope it can be helpful...
+
+
+
+[1. Finetuning Convnet on Costum data](https://github.com/isalirezag/PyTorch-Warm-Up/blob/master/Project2_Finetuning.ipynb):
+In this tutorial I use a costum dataset and finetune resnet
