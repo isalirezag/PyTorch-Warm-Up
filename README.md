@@ -6,5 +6,5 @@ I hope it can be helpful...
 
 
 
-[1. Finetuning Convnet on Costum data](https://github.com/isalirezag/PyTorch-Warm-Up/blob/master/Project2_Finetuning.ipynb):
+[1. Finetuning Convnet on Costum data](https://github.com/isalirezag/PyTorch-Warm-Up/blob/master/Finetuning.ipynb):
 In this tutorial I use a costum dataset and finetune resnet
